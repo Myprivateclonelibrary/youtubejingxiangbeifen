@@ -1,6 +1,6 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyBzdueQ4wHbeHkL6jBqw5th7epIZ1teOSs');//这里改成您的api key
+define('APIKEY', '');//这里改成您的api key
 define('GJ_CODE', 'HK');//国家代码
 define('SITE_NAME', 'YouCCbe');//网站名字
 define('TITLENAME', 'YouCCbe');//网站名字
